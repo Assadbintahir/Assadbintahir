@@ -6,9 +6,7 @@ I am a **Software Engineer** who have experience of working on several large sca
 
 ------
 
-#### ![briefcase](https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png) Where i am currently working at/as 
-
-- [Senior Software Engineer](https://10pearls.com/)
+- [Senior Software Engineer @ 10Pearls](https://10pearls.com/)
 
 ------
 
