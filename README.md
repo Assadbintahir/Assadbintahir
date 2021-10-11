@@ -6,7 +6,7 @@ I am a **Software Engineer** who have experience of working on several large sca
 
 ------
 
-- [Senior Software Engineer @ 10Pearls](https://10pearls.com/)
+- [Staff Software Engineer @ 10Pearls](https://10pearls.com/)
 
 ------
 
