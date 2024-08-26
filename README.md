@@ -12,9 +12,8 @@ Building scalable web products and delving into system programming - that's what
 
 ### 📫 Where to find me
 
-- [Twitter](https://twitter.com/Assadbintahir) 🐤
-- [LinkedIn](https://linkedin.com/in/Assadbintahir) 👨💼
 - [Resume](https://assadbintahir.io/) 😏🔗
+- [Employer's GH account Profile](https://github.com/asadullah-10p) PS: Almost all of individual contributions are in employer's private accounts on bitbucket, gitlab and this Github account.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
