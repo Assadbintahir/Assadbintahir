@@ -8,6 +8,6 @@
 
 ### 📫 Where to find me
 
-- [Resume](https://assadbintahir.io/) 🔗
+- [Resume](https://assadbintahir.com/) 🔗
 - [Employer's GH account Profile](https://github.com/asadullah-10p) PS: Almost all of individual contributions are in employer's private accounts on bitbucket, gitlab and this Github account.
 
